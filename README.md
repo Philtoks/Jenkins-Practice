@@ -10,4 +10,5 @@ The steps taken in this tutorial are shown below:
 2. Obtain a GitHub account
     - Using a texteditor, create jenkinsfile and paste a pipeline and clone your github repo.
     - Push this to your github account.
+    - 
 3. Execute 
